@@ -2,10 +2,10 @@
 
 ## About me
 
-* I am a Robotics Engineer working at (KAIKAKU)[https://github.com/KAIKAKU-AI]
+* I am a Robotics Engineer working at [KAIKAKU](https://github.com/KAIKAKU-AI)
 * I studied Mechanical Engineering at Imperial College London
 * I'm currently trying to learn Spanish :es:
-* Follow my (2024 programming challenge here)[https://github.com/ITregear?tab=repositories], where I'll make monthly projects, each written in a new language
+* Follow my [2024 programming challenge here](https://github.com/ITregear?tab=repositories), where I'll make monthly projects, each written in a new language
 
 
 ### My GitHub Stats
