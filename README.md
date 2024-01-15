@@ -17,3 +17,8 @@
 <a href="#my-github-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itregear&layout=compact&theme=material-palenight" />
 </a>
+
+### My Week in Code
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
