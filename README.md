@@ -21,4 +21,18 @@
 ### My Week in Code
 <!--START_SECTION:waka-->
 
+```rust
+From: 14 January 2024 - To: 17 February 2024
+
+Total Time: 7 hrs 42 mins
+
+Python       5 hrs 52 mins   >>>>>>>>>>>>>>>>>>>------   76.14 %
+C#           48 mins         >>>----------------------   10.37 %
+Markdown     33 mins         >>-----------------------   07.13 %
+CSV          21 mins         >------------------------   04.75 %
+Text         4 mins          -------------------------   00.90 %
+Git Config   3 mins          -------------------------   00.69 %
+Other        0 secs          -------------------------   00.03 %
+```
+
 <!--END_SECTION:waka-->
