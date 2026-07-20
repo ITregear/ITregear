@@ -7,16 +7,6 @@
 * I'm currently trying to learn Spanish :es:
 
 
-### My GitHub Stats
-
-<a href="#my-github-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itregear&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ivan's github stats" />
-</a>
-
-<a href="#my-github-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itregear&layout=compact&theme=material-palenight" />
-</a>
-
 ### Coding Stats
 <!--START_SECTION:waka-->
 
