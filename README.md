@@ -17,7 +17,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itregear&layout=compact&theme=material-palenight" />
 </a>
 
-### My Week in Code
+### Coding Stats
 <!--START_SECTION:waka-->
 
 ```rust
